@@ -1,0 +1,4 @@
+1、验证map长度自增规则， 负载因子和初始容量
+2、java8的性特性 new features  (之一 lambda 表达式 使用规则)
+3、nginx
+4、缓存 ehchace、redis、memcached
