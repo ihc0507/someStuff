@@ -2,3 +2,5 @@
 2、java8的性特性 new features  (之一 lambda 表达式 使用规则)
 3、nginx
 4、缓存 ehchace、redis、memcached
+5、了解静态页面缓存技术
+6、spring 事物级别 代码测试
