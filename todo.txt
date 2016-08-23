@@ -4,3 +4,7 @@
 4、缓存 ehchace、redis、memcached
 5、了解静态页面缓存技术
 6、spring 事物级别 代码测试
+7、关于项目表设计问题：场景：范式级别有点高，需要取某个值 要关联查询2次以上，是否有好多优化方案。
+8、redis缓存常用操作原理了解。
+9、如seajs或者requirejs加载器
+10、$(function(){}); 和 //(function($) {})(jQuery) 区别
